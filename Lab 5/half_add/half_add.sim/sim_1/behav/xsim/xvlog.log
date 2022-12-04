@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 5/half_add/half_add.srcs/sources_1/new/half_add.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module half_add
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 5/half_add/half_add.srcs/sim_1/new/TB_half_add.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TB_half_add

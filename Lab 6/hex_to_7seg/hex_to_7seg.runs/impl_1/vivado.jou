@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Nov 30 12:03:00 2022
+# Process ID: 12608
+# Current directory: E:/ENEE245 Verilog code/Lab 6/hex_to_7seg/hex_to_7seg.runs/impl_1
+# Command line: vivado.exe -log board_hex_to_7seg.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source board_hex_to_7seg.tcl -notrace
+# Log file: E:/ENEE245 Verilog code/Lab 6/hex_to_7seg/hex_to_7seg.runs/impl_1/board_hex_to_7seg.vdi
+# Journal file: E:/ENEE245 Verilog code/Lab 6/hex_to_7seg/hex_to_7seg.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source board_hex_to_7seg.tcl -notrace

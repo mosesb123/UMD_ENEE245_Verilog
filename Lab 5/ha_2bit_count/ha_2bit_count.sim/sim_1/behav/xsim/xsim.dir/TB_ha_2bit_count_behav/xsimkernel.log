@@ -1,0 +1,4 @@
+Running: xsim.dir/TB_ha_2bit_count_behav/xsimk.exe -simmode gui -wdb TB_ha_2bit_count_behav.wdb -simrunnum 0 -socket 52134
+Design successfully loaded
+Design Loading Memory Usage: 5912 KB (Peak: 5912 KB)
+Design Loading CPU Usage: 0 ms

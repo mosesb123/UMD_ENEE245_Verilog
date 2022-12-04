@@ -1,0 +1,28 @@
+`timescale 1ns / 1ps
+
+module TB_current_anode();
+    
+    reg clk;
+    reg clr;
+    
+    wire clk_en;
+    wire [31:0] count;
+    wire [1:0] currentAn;
+    
+    
+    
+    
+    clock_converter DUT_clock_converter(.clk(clk),.clr(clr),.clk_en(clk_en),.count(count));
+    
+    n_bit_count #(.N(2)) DUT_current_anode(.clk(clk_en),.clr(clr),.q(currentAn));
+    
+    
+    initial begin
+        $display("Count = %d", count);
+        clk             = 0;
+        clr             = 1;
+        #1 clr          = 0;
+        forever #1 clk  = ~clk;
+    end
+    
+endmodule

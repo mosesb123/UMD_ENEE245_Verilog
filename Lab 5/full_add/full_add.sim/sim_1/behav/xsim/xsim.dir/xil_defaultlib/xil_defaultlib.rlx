@@ -1,0 +1,8 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 5/full_add/full_add.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 5/full_add/full_add.srcs/sim_1/new/TB_full_add.v,1669691626,verilog,,,,TB_full_add,,,,,,,,
+G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 5/full_add/full_add.srcs/sources_1/imports/new/half_add.v,1669688686,verilog,,G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 5/full_add/full_add.srcs/sim_1/new/TB_full_add.v,,half_add,,,,,,,,
+G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 5/full_add/full_add.srcs/sources_1/new/full_add.v,1669690812,verilog,,G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 5/full_add/full_add.srcs/sources_1/imports/new/half_add.v,,full_add,,,,,,,,

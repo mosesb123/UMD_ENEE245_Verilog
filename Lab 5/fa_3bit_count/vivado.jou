@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Nov 30 09:30:36 2022
+# Process ID: 5616
+# Current directory: E:/ENEE245 Verilog code/Lab 5/fa_3bit_count
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20280 E:\ENEE245 Verilog code\Lab 5\fa_3bit_count\fa_3bit_count.xpr
+# Log file: E:/ENEE245 Verilog code/Lab 5/fa_3bit_count/vivado.log
+# Journal file: E:/ENEE245 Verilog code/Lab 5/fa_3bit_count\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {E:/ENEE245 Verilog code/Lab 5/fa_3bit_count/fa_3bit_count.xpr}

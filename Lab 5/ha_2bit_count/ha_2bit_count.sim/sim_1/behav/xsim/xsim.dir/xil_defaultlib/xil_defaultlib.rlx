@@ -1,0 +1,9 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 5/ha_2bit_count/ha_2bit_count.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 5/ha_2bit_count/ha_2bit_count.srcs/sim_1/new/TB_ha_2bit_count.v,1669747594,verilog,,,,TB_ha_2bit_count,,,,,,,,
+G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 5/ha_2bit_count/ha_2bit_count.srcs/sources_1/imports/Lab 5/half_add/half_add.srcs/sources_1/new/half_add.v,1669688686,verilog,,G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 5/ha_2bit_count/ha_2bit_count.srcs/sources_1/imports/Lab 5/n_bit_count/n_bit_count.srcs/sources_1/new/n_bit_count.v,,half_add,,,,,,,,
+G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 5/ha_2bit_count/ha_2bit_count.srcs/sources_1/imports/Lab 5/n_bit_count/n_bit_count.srcs/sources_1/new/n_bit_count.v,1669746393,verilog,,G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 5/ha_2bit_count/ha_2bit_count.srcs/sim_1/new/TB_ha_2bit_count.v,,n_bit_count,,,,,,,,
+G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 5/ha_2bit_count/ha_2bit_count.srcs/sources_1/new/ha_2bit_count.v,1669753901,verilog,,G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 5/ha_2bit_count/ha_2bit_count.srcs/sources_1/imports/Lab 5/half_add/half_add.srcs/sources_1/new/half_add.v,,ha_2bit_count,,,,,,,,

@@ -7,7 +7,7 @@ module board_hex_to_7seg (input clk,
                           output [3:0] JB); //uncomment and comment above line when it's PMOD time
     
     
-    hex_to_7seg   b_hex_to_7seg (
+    hex_to_7seg  b_hex_to_7seg (
     .clk(clk),
     .clr(btnC),
     .num(sw),

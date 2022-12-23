@@ -7,7 +7,7 @@ module lookahead_4bit_addermodule (input [3:0] A,
 wire [3:0]     w_G;
 wire [3:0]     w_P;
 wire [4:0]     w_C;
-wire [4:0]     w_SUM;
+wire [3:0]     w_SUM;
 
 genvar             jj;
 generate

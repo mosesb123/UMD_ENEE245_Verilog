@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/ENEE245 Verilog code/Lab 8/mulitiplier/mulitiplier.srcs/sources_1/new/com_mult.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module com_mult
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/ENEE245 Verilog code/Lab 8/mulitiplier/mulitiplier.srcs/sources_1/imports/ripple_carry_add/ripple_carry_add.srcs/sources_1/new/nbit_ripple_add.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module nbit_ripple_add
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/ENEE245 Verilog code/Lab 8/mulitiplier/mulitiplier.srcs/sim_1/new/TB_com_mult.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TB_com_mult

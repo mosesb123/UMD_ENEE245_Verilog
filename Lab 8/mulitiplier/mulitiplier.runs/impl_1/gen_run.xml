@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35ticpg236-1L" LaunchTime="1670616177">
+  <File Type="BITSTR-BMM" Name="multipliers_delays_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="multipliers_delays_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="multipliers_delays_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="multipliers_delays_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="multipliers_delays.tcl"/>
+  <File Type="OPT-TIMING" Name="multipliers_delays_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="multipliers_delays_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="multipliers_delays_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="multipliers_delays_reports.tcl"/>
+  <File Type="OPT-DRC" Name="multipliers_delays_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="multipliers_delays.hwdef"/>
+  <File Type="PWROPT-DCP" Name="multipliers_delays_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="multipliers_delays_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="multipliers_delays_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="multipliers_delays_placed.dcp"/>
+  <File Type="PLACE-IO" Name="multipliers_delays_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="multipliers_delays_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="multipliers_delays_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="multipliers_delays_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="multipliers_delays_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="multipliers_delays_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="multipliers_delays_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="multipliers_delays_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="multipliers_delays_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="multipliers_delays.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="multipliers_delays_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="multipliers_delays_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="multipliers_delays_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="multipliers_delays.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="multipliers_delays_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="multipliers_delays_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="multipliers_delays_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="multipliers_delays_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="multipliers_delays_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="multipliers_delays_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="multipliers_delays_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="multipliers_delays.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="multipliers_delays_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="multipliers_delays_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="multipliers_delays_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="multipliers_delays_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="multipliers_delays_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="multipliers_delays_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="multipliers_delays_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="multipliers_delays_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="multipliers_delays_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="multipliers_delays_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="multipliers_delays_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="multipliers_delays_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="multipliers_delays_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="multipliers_delays_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="multipliers_delays_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="multipliers_delays_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="multipliers_delays_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="multipliers_delays_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="multipliers_delays_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="multipliers_delays_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="multipliers_delays_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="multipliers_delays.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="multipliers_delays_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="multipliers_delays.rbt"/>
+  <File Type="BITSTR-NKY" Name="multipliers_delays.nky"/>
+  <File Type="PDI-FILE" Name="multipliers_delays.pdi"/>
+  <File Type="RCFI_FILE" Name="multipliers_delays.rcfi"/>
+  <File Type="CFI_FILE" Name="multipliers_delays.cfi"/>
+  <File Type="RNPI_FILE" Name="multipliers_delays.rnpi"/>
+  <File Type="NPI_FILE" Name="multipliers_delays.npi"/>
+  <File Type="RBD_FILE" Name="multipliers_delays.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="multipliers_delays.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="multipliers_delays.sysdef"/>
+  <File Type="BG-BGN" Name="multipliers_delays.bgn"/>
+  <File Type="BG-DRC" Name="multipliers_delays.drc"/>
+  <File Type="RDI-RDI" Name="multipliers_delays.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/com_mult.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ripple_carry_add/ripple_carry_add.srcs/sources_1/imports/sources_1/new/full_add.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab 7/ripple_carry_add/ripple_carry_add.srcs/sources_1/imports/sources_1/new/full_add.v"/>
+        <Attr Name="ImportTime" Val="1669690814"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ripple_carry_add/ripple_carry_add.srcs/sources_1/imports/sources_1/imports/new/half_add.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab 7/ripple_carry_add/ripple_carry_add.srcs/sources_1/imports/sources_1/imports/new/half_add.v"/>
+        <Attr Name="ImportTime" Val="1669688686"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ripple_carry_add/ripple_carry_add.srcs/sources_1/new/nbit_ripple_add.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab 7/ripple_carry_add/ripple_carry_add.srcs/sources_1/new/nbit_ripple_add.v"/>
+        <Attr Name="ImportTime" Val="1670194224"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/multipliers_delays.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/booth_mult.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/array_block.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/array_row.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/array_com_mult.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ripple_carry_add/ripple_carry_add.srcs/sources_1/imports/hex_to_7seg.srcs/sources_1/new/anode_driver.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab 7/ripple_carry_add/ripple_carry_add.srcs/sources_1/imports/hex_to_7seg.srcs/sources_1/new/anode_driver.v"/>
+        <Attr Name="ImportTime" Val="1670188520"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ripple_carry_add/ripple_carry_add.srcs/sources_1/imports/hex_to_7seg.srcs/sources_1/new/clock_converter.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab 7/ripple_carry_add/ripple_carry_add.srcs/sources_1/imports/hex_to_7seg.srcs/sources_1/new/clock_converter.v"/>
+        <Attr Name="ImportTime" Val="1670188520"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ripple_carry_add/ripple_carry_add.srcs/sources_1/imports/hex_to_7seg.srcs/sources_1/new/decoder_7seg.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab 7/ripple_carry_add/ripple_carry_add.srcs/sources_1/imports/hex_to_7seg.srcs/sources_1/new/decoder_7seg.v"/>
+        <Attr Name="ImportTime" Val="1670188520"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ripple_carry_add/ripple_carry_add.srcs/sources_1/imports/hex_to_7seg.srcs/sources_1/new/hex_to_7seg.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab 7/ripple_carry_add/ripple_carry_add.srcs/sources_1/imports/hex_to_7seg.srcs/sources_1/new/hex_to_7seg.v"/>
+        <Attr Name="ImportTime" Val="1670201208"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ripple_carry_add/ripple_carry_add.srcs/sources_1/imports/hex_to_7seg.srcs/sources_1/new/mux_4bit_4to1.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab 7/ripple_carry_add/ripple_carry_add.srcs/sources_1/imports/hex_to_7seg.srcs/sources_1/new/mux_4bit_4to1.v"/>
+        <Attr Name="ImportTime" Val="1670188520"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ripple_carry_add/ripple_carry_add.srcs/sources_1/imports/hex_to_7seg.srcs/sources_1/imports/new/n_bit_count.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab 7/ripple_carry_add/ripple_carry_add.srcs/sources_1/imports/hex_to_7seg.srcs/sources_1/imports/new/n_bit_count.v"/>
+        <Attr Name="ImportTime" Val="1670188476"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/board_com_mult.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="multipliers_delays"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/Xilinx/Basys-3-Master.xdc">
+      <FileInfo>
+        <Attr Name="UserDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Basys-3-Master.xdc"/>
+        <Attr Name="ImportTime" Val="1669749620"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/constrs_1/imports/new/7seg.xdc">
+      <FileInfo>
+        <Attr Name="UserDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab 7/ripple_carry_add/ripple_carry_add.srcs/constrs_1/new/7seg.xdc"/>
+        <Attr Name="ImportTime" Val="1670203806"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/constrs_1/imports/new/pmod.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab 7/ripple_carry_add/ripple_carry_add.srcs/constrs_1/new/pmod.xdc"/>
+        <Attr Name="ImportTime" Val="1670204130"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design" EnableStepBool="1"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

@@ -2,13 +2,13 @@
 # Webtalk v2019.2 (64-bit)
 # SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
 # IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
-# Start of session at: Sun Dec  4 17:55:40 2022
-# Process ID: 6648
+# Start of session at: Tue Dec  6 23:09:06 2022
+# Process ID: 36644
 # Current directory: G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 7/ripple_carry_add/ripple_carry_add.sim/sim_1/behav/xsim
-# Command line: wbtcv.exe -mode batch -source G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 7/ripple_carry_add/ripple_carry_add.sim/sim_1/behav/xsim/xsim.dir/TB_ripple_carry_add_behav/webtalk/xsim_webtalk.tcl -notrace
+# Command line: wbtcv.exe -mode batch -source G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 7/ripple_carry_add/ripple_carry_add.sim/sim_1/behav/xsim/xsim.dir/TB_lookahead_behav/webtalk/xsim_webtalk.tcl -notrace
 # Log file: G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 7/ripple_carry_add/ripple_carry_add.sim/sim_1/behav/xsim/webtalk.log
 # Journal file: G:/My Drive/School/UMD/Fall 2022/enee245/Xilinx/Lab 7/ripple_carry_add/ripple_carry_add.sim/sim_1/behav/xsim\webtalk.jou
 #-----------------------------------------------------------
 source G:/My -notrace
 couldn't read file "G:/My": no such file or directory
-INFO: [Common 17-206] Exiting Webtalk at Sun Dec  4 17:55:40 2022...
+INFO: [Common 17-206] Exiting Webtalk at Tue Dec  6 23:09:06 2022...

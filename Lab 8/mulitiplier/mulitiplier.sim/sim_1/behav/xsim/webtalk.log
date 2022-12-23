@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Webtalk v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Fri Dec  9 14:26:18 2022
+# Process ID: 10548
+# Current directory: E:/ENEE245 Verilog code/Lab 8/mulitiplier/mulitiplier.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source E:/ENEE245 Verilog code/Lab 8/mulitiplier/mulitiplier.sim/sim_1/behav/xsim/xsim.dir/TB_com_arr_mult_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/ENEE245 Verilog code/Lab 8/mulitiplier/mulitiplier.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: E:/ENEE245 Verilog code/Lab 8/mulitiplier/mulitiplier.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source E:/ENEE245 -notrace
+invalid command name "%"
+    while executing
+"% Total    % Received % Xferd  Average Speed   Time    Time     Time  Current"
+    (file "E:/ENEE245" line 1)
+INFO: [Common 17-206] Exiting Webtalk at Fri Dec  9 14:26:18 2022...

@@ -1,3 +1,4 @@
+`timescale 1ns / 1ps
 module TB_ripple_carry_add ();
     
     parameter N = 4;
@@ -12,13 +13,14 @@ module TB_ripple_carry_add ();
     .B(b),
     .S(s)
     );
+
     integer ii,jj;
     initial begin
-        for (ii = 0; ii< N+1; ii = ii+1) begin
-            for (jj = 0; jj< N+1; jj = jj+1) begin
+        for (ii = 0; ii< 2**N; ii = ii+1) begin
+            for (jj = 0; jj< 2**N; jj = jj+1) begin
                 a = ii;
                 b = jj;
-                #10;
+                #2;
             end
         end
     end

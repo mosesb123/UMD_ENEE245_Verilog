@@ -1,10 +1,11 @@
+`timescale 1ns / 1ps
 module TB_lookahead ();
     
-    parameter N = 4;
     
-    reg [N-1:0] a = 0;
-    reg [N-1:0] b = 0;
-    wire [N:0]  s;
+    
+    reg [3:0] a = 0;
+    reg [3:0] b = 0;
+    wire [4:0]  s;
     
     lookahead_4bit_addermodule lookahead
     (
@@ -14,11 +15,11 @@ module TB_lookahead ();
     );
     integer ii,jj;
     initial begin
-        for (ii = 0; ii< N+1; ii = ii+1) begin
-            for (jj = 0; jj< N+1; jj = jj+1) begin
+        for (ii = 0; ii< 16; ii = ii+1) begin
+            for (jj = 0; jj< 16; jj = jj+1) begin
                 a = ii;
                 b = jj;
-                #10;
+                #2;
             end
         end
     end
